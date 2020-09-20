@@ -1,0 +1,84 @@
+@charset "utf-8";
+/* CSS Document */
+
+.task#task-story-s-1 .task-target {
+	position: relative;
+	display: inline-block;
+	width: 24%;
+	height: 210px;
+	margin: 0px 0px 30px;
+	line-height: 210px;
+	text-align: center;
+}
+.task#task-story-s-1 .task-answer {
+	position: relative;
+	display: inline-block;
+	width: 160px;
+	height: 210px;
+	vertical-align: middle;
+}
+.task#task-story-s-1 .task-target#task-target-01 {
+	display: block;
+	width: 360px;
+	height: 240px;
+	margin: 0px auto 0px;
+}
+.task#task-story-s-1 .task-answer#task-answer-01 {
+	width: 360px;
+}
+
+.task#task-story-p-1 .task-target {
+	position: relative;
+	display: inline-block;
+	width: 24%;
+	height: 210px;
+	margin: 0px 0px 30px;
+	line-height: 210px;
+	text-align: center;
+}
+.task#task-story-p-1 .task-answer {
+	position: relative;
+	display: inline-block;
+	width: 240px;
+	height: 210px;
+	vertical-align: middle;
+}
+.task#task-story-p-1 .task-target#task-target-01 {
+	/*display: block;*/
+	/*width: 240px;
+	height: 240px;*/
+	margin: 0px auto 0px;
+}
+.task#task-story-p-1 .task-answer#task-answer-01 {
+	/*width: 240px;
+	height: 240px;*/
+}
+
+
+.task#task-story-k-1 .task-target {
+
+	width: 480px;
+	height: 386px;
+
+}
+.task#task-story-o-oacc-1 .task-answer img  {
+width: auto;
+	height: 480px;
+}
+
+.task#task-story-abc-1 .task-target{
+	height: 420px;
+}
+.task#task-story-a-1 .task-target{
+	height: 430px;
+}
+.task#task-story-m-1 .task-target{
+	height: 460px;
+}
+.task#task-story-u-uacc-1 .task-target{
+	padding-top:20px;
+	height: 300px;
+}
+.task#task-story-recap2-1 .task-target{
+	height: 360px;
+}

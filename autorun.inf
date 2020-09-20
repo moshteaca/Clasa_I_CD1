@@ -1,0 +1,5 @@
+[autorun]
+open=system\winopen "$EXEDIR$\..\content\index.html"
+label=Betuleso I
+action=Digitalis Tankonyv Inditasa
+icon=system\manual.ico

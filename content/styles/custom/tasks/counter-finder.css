@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+.task#task-finder-test-1-4 .task-spacer td {
+	width: 33.333333%;
+}
+.task#task-finder-test-1-4 .task-target img {
+	width: 150px;
+	height: auto;
+}
+ .task#task-finder-s-3-2 header.task-instruction,
+  .task#task-finder-s-3-4 header.task-instruction, 
+  .task#task-finder-t-3-2 header.task-instruction,
+  .task#task-finder-t-3-4 header.task-instruction,
+  .task#task-finder-m-3-2 header.task-instruction,
+  .task#task-finder-m-3-4 header.task-instruction,
+  .task#task-finder-aacc-3-2 header.task-instruction,
+  .task#task-finder-aacc-3-4 header.task-instruction
+  {
+	background-color: #FDD;
+}
+ .task#task-finder-s-3-2 .task header.task-instruction:hover, 
+  .task#task-finder-s-3-4 .task header.task-instruction:hover, 
+  .task#task-finder-t-3-2 .task header.task-instruction:hover, 
+  .task#task-finder-t-3-4 .task header.task-instruction:hover,
+  .task#task-finder-m-3-2 .task header.task-instruction:hover, 
+  .task#task-finder-m-3-4 .task header.task-instruction:hover,
+  .task#task-finder-aacc-3-2 .task header.task-instruction:hover, 
+  .task#task-finder-aacc-3-4 .task header.task-instruction:hover{
+	background-color: #FFC6C6;
+}

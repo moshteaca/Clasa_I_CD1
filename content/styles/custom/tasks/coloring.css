@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+
+.task#task-coloring-a-8 .task-canvas {
+	vertical-align: middle;
+}
+.task#task-coloring-a-8 .task-palette {
+	display: inline-block;
+	width: 200px;
+	vertical-align: middle;
+}
+.task#task-coloring-a-8 .task-palette .task-answer {
+	margin: 5px;
+}
+.task#task-coloring-a-8 .checked .task-target.failure .fill {
+	background-image: url(../../../data/images/system/overlay_crossout.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+.task#task-coloring-o-oacc-2 .task-target {
+	border-radius: 10px;
+}
+.task#task-coloring-recap1-5 .task-palette {
+	width: 900px;
+	margin: 30px auto;
+}
+.task#task-coloring-t-8 .task-palette h1 {
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0px 15px;;
+}
+.task#task-coloring-t-8 .task-answer,
+.task#task-coloring-e-8 .task-answer {
+	position: relative;
+	display: inline-block;
+	width: 80px;
+	height: 80px;
+	font-size: 21px;
+	line-height: 80px;
+	padding: 2px;
+	border-color: #333333;
+	border-width: 3px;
+	border-style: solid;
+	border-radius: 60px;
+	margin: 5px;
+	vertical-align: middle;
+	color: #EEEEEE;
+}
+
+.task#task-coloring-t-8 .task-answer.s,
+.task#task-coloring-e-8 .task-answer.s {
+	margin: 0px;
+	padding: 0px;
+	border-width: 5px;
+	
+	width: 90px;
+	height: 90px;
+	line-height: 90px;
+}
+.task#task-coloring-t-8 .task-playground {
+	width: 100%;
+	min-height: 360px;
+	position: relative;
+	margin-top: 30px;
+}
+.task#task-coloring-e-8 .task-target {
+	border-radius: 10px;
+}

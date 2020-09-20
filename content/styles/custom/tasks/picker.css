@@ -1,0 +1,138 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* #task-picker-a */
+.task-picker#task-picker-a .lesson {
+	font-size: 40px;
+	line-height: 48px;
+}
+.task-picker#task-picker-a .subpage.not-checked .lesson u:hover,
+.task-picker#task-picker-a .subpage.not-checked .lesson i:hover {
+	font-size: 54px;
+}
+/* #task-picker-i-iacc */
+.task-picker#task-picker-i-iacc .lesson {
+	font-size: 50px;
+	line-height: 60px;
+}
+.task-picker#task-picker-i-iacc .subpage.not-checked .lesson u:hover,
+.task-picker#task-picker-i-iacc .subpage.not-checked .lesson i:hover {
+	font-size: 65px;
+}
+/* #task-picker-o-oacc */
+.task-picker#task-picker-o-oacc .lesson {
+	font-size: 45px;
+	line-height: 54px;
+}
+.task-picker#task-picker-o-oacc .subpage.not-checked .lesson u:hover,
+.task-picker#task-picker-o-oacc .subpage.not-checked .lesson i:hover {
+	font-size: 58.5px;
+}
+/* #task-picker-m */
+.task-picker#task-picker-m .lesson {
+	font-size: 30px;
+	line-height: 36px;
+}
+.task-picker#task-picker-m .subpage.not-checked .lesson u:hover,
+.task-picker#task-picker-m .subpage.not-checked .lesson i:hover {
+	font-size: 39px;
+}
+/* #task-picker-s */
+.task-picker#task-picker-s .lesson {
+	font-size: 40px;
+	line-height: 48px;
+}
+.task-picker#task-picker-s .subpage.not-checked .lesson u:hover,
+.task-picker#task-picker-s .subpage.not-checked .lesson i:hover {
+	font-size: 52px;
+}
+/* #task-picker-t */
+.task-picker#task-picker-t .lesson {
+	font-size: 30px;
+	line-height: 36px;
+}
+.task-picker#task-picker-t .subpage.not-checked .lesson u:hover,
+.task-picker#task-picker-t .subpage.not-checked .lesson i:hover {
+	font-size: 39px;
+}
+/* #task-picker-v */
+.task-picker#task-picker-v .lesson {
+	font-size: 30px;
+	line-height: 36px;
+}
+.task-picker#task-picker-v .subpage.not-checked .lesson u:hover,
+.task-picker#task-picker-v .subpage.not-checked .lesson i:hover {
+	font-size: 39px;
+}
+/* #task-picker-e */
+.task-picker#task-picker-e .lesson {
+	font-size: 35px;
+	line-height: 42px;
+}
+.task-picker#task-picker-e .subpage.not-checked .lesson u:hover,
+.task-picker#task-picker-e .subpage.not-checked .lesson i:hover {
+	font-size: 45.5px;
+}
+/* #task-picker-l */
+.task-picker#task-picker-l .lesson {
+	font-size: 30px;
+	line-height: 36px;
+}
+.task-picker#task-picker-l .subpage.not-checked .lesson u:hover,
+.task-picker#task-picker-l .subpage.not-checked .lesson i:hover {
+	font-size: 39px;
+}
+/* #task-picker-u-uacc */
+.task-picker#task-picker-u-uacc .lesson {
+	font-size: 30px;
+	line-height: 36px;
+}
+.task-picker#task-picker-u-uacc .subpage.not-checked .lesson u:hover,
+.task-picker#task-picker-u-uacc .subpage.not-checked .lesson i:hover {
+	font-size: 39px;
+}
+/* #task-picker-p */
+.task-picker#task-picker-p .lesson {
+	font-size: 30px;
+	line-height: 36px;
+}
+.task-picker#task-picker-p .subpage.not-checked .lesson u:hover,
+.task-picker#task-picker-p .subpage.not-checked .lesson i:hover {
+	font-size: 39px;
+}
+/* #task-picker-15 */
+.task-picker#task-picker-aacc .lesson {
+	font-size: 35px;
+	line-height: 42px;
+}
+.task-picker#task-picker-aacc .subpage.not-checked .lesson u:hover,
+.task-picker#task-picker-aacc .subpage.not-checked .lesson i:hover {
+	font-size: 45.5px;
+}
+/* #task-picker-c */
+.task-picker#task-picker-c .lesson {
+	font-size: 40px;
+	line-height: 48px;
+}
+.task-picker#task-picker-c .subpage.not-checked .lesson u:hover,
+.task-picker#task-picker-c .subpage.not-checked .lesson i:hover {
+	font-size: 52px;
+}
+/* #task-picker-k */
+.task-picker#task-picker-k .lesson {
+	font-size: 40px;
+	line-height: 48px;
+}
+.task-picker#task-picker-k .subpage.not-checked .lesson u:hover,
+.task-picker#task-picker-k .subpage.not-checked .lesson i:hover {
+	font-size: 52px;
+}
+/* #task-picker-f */
+.task-picker#task-picker-f .lesson {
+	font-size: 35px;
+	line-height: 42px;
+}
+.task-picker#task-picker-f .subpage.not-checked .lesson u:hover,
+.task-picker#task-picker-f .subpage.not-checked .lesson i:hover {
+	font-size: 45.5px;
+}
